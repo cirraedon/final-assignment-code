@@ -1,6 +1,3 @@
-The code for my final AP Computer Science Principles assignment.
+# Processing
 
-Written in Processing.
-
-
-This statement is proof that this GitHub account belongs to me, Bryan Liu. This is not someone else's GitHub repo that I just stole and have taken credit for. 
+Various animations / interactives written in Processing, a language new to me, for my final assignment in AP Computer Science Principles.
